@@ -41,6 +41,9 @@
 
 风之翼灵
 
+问题反馈
+[https://www.fungj.com/works/baidu-post-bar-picture-acquisition-system.html](https://www.fungj.com/works/baidu-post-bar-picture-acquisition-system.html "https://www.fungj.com/works/baidu-post-bar-picture-acquisition-system.html")
+
 [www.fungj.com](http://www.fungj.com "www.fungj.com")
 
 该程序由风之翼灵开发，如有问题请到www.fungj.com提出来
